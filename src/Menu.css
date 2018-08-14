@@ -1,0 +1,19 @@
+.menu {
+  display: flex;
+  flex-direction: row;
+
+  background-color: black;
+  font-family: sans-serif;
+  color: white;
+}
+
+.app-name {
+  /* justify-self: flex-start; */
+}
+
+.app-menu {
+  margin-left: auto;
+  list-style: none;
+  padding-right: 40px;
+  display: inline;
+}
